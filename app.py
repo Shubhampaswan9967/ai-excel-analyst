@@ -348,8 +348,7 @@ menu_options = [
     "💡 AI Insights",
     "🤖 Ask AI",
     "📄 Generate Report",
-    "🕘 Analysis History",
-    "⚙️ Settings"
+    "🕘 Analysis History"
 ]
 
 
@@ -1529,8 +1528,3 @@ elif menu == "🕘 Analysis History":
 
 
 
-elif menu == "⚙️ Settings":
-
-    st.title("⚙️ Settings")
-
-    st.info("Settings will be developed later.")
